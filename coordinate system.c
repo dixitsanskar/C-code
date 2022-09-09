@@ -3,7 +3,7 @@
 int main() {
     // Write C code here
     float x,y;
-    scanf("%d%d",&x,&y);
+    scanf("%f%f",&x,&y);
     int t;
     if(x>0 && y>0)
     t=1;
